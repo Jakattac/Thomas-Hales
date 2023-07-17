@@ -21,9 +21,10 @@ The website provides information about Thomas Hales' life, including his early y
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Nav Bar and Header ](../workspaces/Thomas-Hales/assets/images/header.png.png)
 
-> Caption for Screenshot 1
+- Featured on all four pages, the full responsive navigation bar includes links to the Introduction, Irish Independance, Sean Hales and Sign Up page and is ideally placed at the top of the page.
+- This section will allow the user to easily navigate accross all pages on all devices without having to revert back to the previous page.
 
 ![Screenshot 2](screenshots/screenshot2.png)
 
